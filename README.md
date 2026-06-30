@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1284458728.svg)](https://doi.org/10.5281/zenodo.21073351)
+
 # NoJapan_eroding_asperities
 
 MATLAB code for conducting inversions for manuscript submitted to GRL:  Decadal Creep Acceleration on the Northern Japan Trench Driven by Erosion of Heterogeneously Locked Asperities, 
