@@ -1,0 +1,10 @@
+.DS_Store
+
+# Previous nested repository metadata backup, if retained temporarily.
+Zenodo_model_results/.git.child-repo-backup/
+
+# Files exceed GitHub's normal 100 MB per-file limit.
+NoJapan_outputs_M9cycle_joint/locked_index.txt
+NoJapan_outputs_M9cycle_joint/creep_rates.txt
+data/setup_mesh_minimal.mat
+tools/dem/ETOPO1_Ice_g_geotiff.tif
